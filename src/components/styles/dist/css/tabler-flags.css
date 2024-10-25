@@ -1,0 +1,56 @@
+/*!
+* Tabler v1.0.0-beta20 (https://tabler.io)
+* @version 1.0.0-beta20
+* @link https://tabler.io
+* Copyright 2018-2023 The Tabler Authors
+* Copyright 2018-2023 codecalm.net Paweł Kuna
+* Licensed under MIT (https://github.com/tabler/tabler/blob/master/LICENSE)
+*/
+/* prettier-ignore */
+/* prettier-ignore */
+.flag {
+  position: relative;
+  display: inline-block;
+  height: 2.5rem;
+  aspect-ratio: 1.33333;
+  background: no-repeat center/cover;
+  box-shadow: var(--tblr-box-shadow-border);
+  border-radius: var(--tblr-border-radius);
+  vertical-align: bottom;
+}
+.flag.flag-country-np {
+  box-shadow: none;
+  border-radius: 0;
+}
+
+
+
+
+
+.flag-xxs {
+  height: 1rem;
+}
+
+.flag-xs {
+  height: 1.25rem;
+}
+
+.flag-sm {
+  height: 2rem;
+}
+
+.flag-md {
+  height: 2.5rem;
+}
+
+.flag-lg {
+  height: 3rem;
+}
+
+.flag-xl {
+  height: 5rem;
+}
+
+.flag-2xl {
+  height: 7rem;
+}
